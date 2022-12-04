@@ -1,0 +1,7 @@
+.para1{
+background-color:lightblue;
+color: navy;
+font-family:Times New Roman;
+font-size:20;
+text-align:right;
+}

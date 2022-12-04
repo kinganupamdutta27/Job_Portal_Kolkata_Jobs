@@ -1,0 +1,12 @@
+<html>
+<head>
+CS702C Web Technology Q2
+</head>
+<body>
+<table>
+<tr>
+<th style="color:red">Roll. No.</th>
+</tr>
+</table>
+</body>
+</html>

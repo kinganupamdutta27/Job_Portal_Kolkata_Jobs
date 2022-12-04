@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>CS702C Web Technology Q4</title>
+</head>
+<body>
+<img border="2" text-align="center" alt="IT" src="Q4.png">
+</body>

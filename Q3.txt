@@ -1,0 +1,14 @@
+<html>
+<head>
+CS702C Web Technology Q3
+<style>
+p{
+color:blue
+font-family:Times New Roman
+}
+</style>
+</head>
+<body>
+<p>Fuck You</p>
+</body>
+</html>
